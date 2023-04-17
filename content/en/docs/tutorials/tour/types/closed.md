@@ -28,7 +28,7 @@ a: close({
 })
 
 b: a & {
-    feild: 3
+    field: 3
 }
 
 {{< /highlight >}}
